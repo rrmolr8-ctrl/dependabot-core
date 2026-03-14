@@ -1,6 +1,6 @@
 {
   "name": "core-dev",
-  "build": {rodolfo_montano)
+  "build": {rm)
     "dockerfile": "../../Dockerfile.development",
     "cacheFrom": "ghcr.io/dependabot/dependabot-updater-core"
   },
